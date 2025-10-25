@@ -26,7 +26,7 @@ This project is part of the **TP3 – Profile App** assignment for the *Applicat
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Profile Screenshot](./assets/screenshot.png)
+![Profile Screenshot](./assets/screenshot.jpg)
 
 
 
